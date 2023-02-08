@@ -1,0 +1,50 @@
+Added Component: Designator=CL1(RESISTOR)
+Added Component: Designator=CL2(RESISTOR)
+Added Component: Designator=CL3(RESISTOR)
+Added Component: Designator=CL4(RESISTOR)
+Added Component: Designator=CL5(RESISTOR)
+Added Component: Designator=CL6(RESISTOR)
+Added Component: Designator=CL7(RESISTOR)
+Added Component: Designator=CL8(RESISTOR)
+Added Component: Designator=CL9(RESISTOR)
+Added Component: Designator=CL10(RESISTOR)
+Added Component: Designator=CL11(RESISTOR)
+Added Component: Designator=CL12(RESISTOR)
+Added Component: Designator=LINE1(LINE)
+Added Pin To Net: NetName=NetCL1_2 Pin=CL1-2
+Added Pin To Net: NetName=NetCL1_2 Pin=CL2-1
+Added Pin To Net: NetName=NetCL2_2 Pin=CL2-2
+Added Pin To Net: NetName=NetCL3_1 Pin=CL3-1
+Added Pin To Net: NetName=NetCL3_2 Pin=CL3-2
+Added Pin To Net: NetName=NetCL3_2 Pin=CL4-1
+Added Pin To Net: NetName=GND Pin=CL5-1
+Added Pin To Net: NetName=NetCL1_2 Pin=CL5-2
+Added Pin To Net: NetName=GND Pin=CL6-1
+Added Pin To Net: NetName=NetCL3_2 Pin=CL6-2
+Added Pin To Net: NetName=NetCL7_2 Pin=CL7-2
+Added Pin To Net: NetName=NetCL7_2 Pin=CL8-1
+Added Pin To Net: NetName=NetCL8_2 Pin=CL8-2
+Added Pin To Net: NetName=NetCL9_1 Pin=CL9-1
+Added Pin To Net: NetName=NetCL9_2 Pin=CL9-2
+Added Pin To Net: NetName=NetCL9_2 Pin=CL10-1
+Added Pin To Net: NetName=GND Pin=CL11-1
+Added Pin To Net: NetName=NetCL7_2 Pin=CL11-2
+Added Pin To Net: NetName=GND Pin=CL12-1
+Added Pin To Net: NetName=NetCL9_2 Pin=CL12-2
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL3_1 Pin=LINE1-2
+Added Pin To Net: NetName=NetCL9_1 Pin=LINE1-3
+Added Pin To Net: NetName=NetCL8_2 Pin=LINE1-4
+Added Member To Class: ClassName=transformer Member=Component CL1 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL2 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL3 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL4 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL5 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL6 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL7 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL8 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL9 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL10 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL11 CL_component
+Added Member To Class: ClassName=transformer Member=Component CL12 CL_component
+Added Member To Class: ClassName=transformer Member=Component LINE1 LINE

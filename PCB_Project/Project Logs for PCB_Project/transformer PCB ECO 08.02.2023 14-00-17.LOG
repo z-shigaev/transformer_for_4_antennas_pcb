@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetCL2_2 Pin=CL8-2
+Removed Pin From Net: NetName=NetCL2_2 Pin=CL9-1
+Added Component: Designator=LINE1(LINE)
+Added Pin To Net: NetName=NetCL8_2 Pin=CL8-2
+Added Pin To Net: NetName=NetCL9_1 Pin=CL9-1
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL3_1 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL3_1 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL3_1 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL3_1 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL3_1 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL8_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL8_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL8_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL8_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL8_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL9_1 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL9_1 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL9_1 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL9_1 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL9_1 Pin=LINE1-1
+Added Member To Class: ClassName=transformer Member=Component LINE1 LINE
+Added Room: Name=transformer

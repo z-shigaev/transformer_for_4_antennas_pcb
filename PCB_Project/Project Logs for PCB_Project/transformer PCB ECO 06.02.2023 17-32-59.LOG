@@ -1,0 +1,11 @@
+Added Component: Designator=LINE1(LINE)
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Added Pin To Net: NetName=NetCL2_2 Pin=LINE1-1
+Add Pin To Net: Unknown Pin: Pin LINE1-2
+Add Pin To Net: Unknown Pin: Pin LINE1-3
+Add Pin To Net: Unknown Pin: Pin LINE1-4
+Added Member To Class: ClassName=transformer Member=Component LINE1 LINE
+Added Room: Name=transformer
